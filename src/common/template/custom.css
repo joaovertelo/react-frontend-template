@@ -1,0 +1,29 @@
+.main-footer {
+    position: fixed; 
+    bottom: 0px;
+    width: 100%
+}
+
+button {
+    margin-left: 5px;
+}
+
+.table-actions {
+    width: 150px;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header {
+    padding: 10px;
+    padding-top: 20px;
+    text-align: center;
+    border: 0
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header>img {
+    z-index: 5;
+    height: 90px;
+    width: 90px;
+}
+.button-login {
+    padding-top: 10px;
+}
