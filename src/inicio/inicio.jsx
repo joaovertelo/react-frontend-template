@@ -1,7 +1,8 @@
-import React from 'react'
+import React from "react";
+import PickList from "./PickList";
 
 export default props => (
-    <div className="content">
-
-    </div>
-)
+  <div className="content">
+    <PickList />
+  </div>
+);
